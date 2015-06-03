@@ -10,7 +10,7 @@ I was in need to convert xml file to easy to use and handle json object but ever
 
 I made this using bemow mentioned enviornment. Your may be different vrsion. It should work on that too.
 
-1. [jQuery Library Version 2.1.4 (Included)](http://code.jquery.com/jquery-2.1.4.min.js)
+1. [jQuery Library Version 2.1.4](http://code.jquery.com/jquery-2.1.4.min.js) (Included)
 2. Apache Server Version 2 
 3. PHP Version 5.2.0 or later
 
