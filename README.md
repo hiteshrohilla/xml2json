@@ -20,7 +20,7 @@ PHP Version 5.2.0 or later
 
 2. Download source code. there are two major files **index.html** and **xml2json.php** place them in public folder, i.e. htdoc or www or public folder of your apache, xampp, lamp, wamp or hosting account.
 
-3. in **index.html** on line number 12 in place of "http://www.w3schools.com/xml/note.xml" provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. <pro><textarea id="data"></textarea></pro> on **index.php** script is made in a way that it will also provide status in <pro><div id="status"></div></pro> markup.
+3. in **index.html** on line number 12 in place of "http://www.w3schools.com/xml/note.xml" provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. '''<textarea id="data"></textarea>''' on **index.php** script is made in a way that it will also provide status in '''<div id="status"></div>''' markup.
 
 4. You can get json file from same location after getting converted where the **xml2json.php** script is installed.
 
