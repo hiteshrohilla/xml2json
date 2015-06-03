@@ -34,7 +34,7 @@ Thousends of coders who help people solving problems. Because of them people lik
 
 ## Author
 
-Made with love by Hitesh Rohilla (a.k.a. Hitesh Kumar)
+Made with love by [Hitesh Rohilla](http://hiteshrohilla.com/) (a.k.a. Hitesh Kumar)
 
 ## License
 
