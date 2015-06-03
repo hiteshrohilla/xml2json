@@ -38,4 +38,4 @@ Made with love by [Hitesh Rohilla](http://hiteshrohilla.com/) (a.k.a. Hitesh Kum
 
 ## License
 
-The content of this repository is published under GNU GENERAL PUBLIC LICENSE Version 3.
+The content of this repository is published under [GNU GENERAL PUBLIC LICENSE Version 3](http://www.gnu.org/licenses/gpl.txt).
