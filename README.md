@@ -10,9 +10,9 @@ I was in need to convert xml file to easy to use and handle json object but ever
 
 I made this using bemow mentioned enviornment. Your may be different vrsion. It should work on that too.
 
-jQuery Library Version 2.1.4 (Included)
-Apache Server Version 2
-PHP Version 5.2.0 or later
+1. jQuery Library Version 2.1.4 (Included)
+2. Apache Server Version 2
+3. PHP Version 5.2.0 or later
 
 ## Installation
 
