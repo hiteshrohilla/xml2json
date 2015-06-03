@@ -20,11 +20,7 @@ PHP Version 5.2.0 or later
 
 2. Download source code. there are two major files **index.html** and **xml2json.php** place them in public folder, i.e. htdoc or www or public folder of your apache, xampp, lamp, wamp or hosting account.
 
-3. in **index.html** on line number 12 in place of "http://www.w3schools.com/xml/note.xml" provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. 
-'''html
-<textarea id="data"></textarea>
-'''
-on **index.php** script is made in a way that it will also provide status in 
+3. in **index.html** on line number 12 in place of "http://www.w3schools.com/xml/note.xml" provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. &lt;textarea id="data"&gt;$lt;/textarea&gt; on **index.php** script is made in a way that it will also provide status in 
 '''html
 <div id="status"></div>
 '''
