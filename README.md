@@ -14,7 +14,7 @@ I made this using bemow mentioned enviornment. Your may be different vrsion. It 
 2. Apache Server Version 2 
 3. PHP Version 5.2.0 or later
 
-in place of Apache and PHP saperatly i used (XAMPP Server)[https://www.apachefriends.org/download.html]. you can use WAMP for windows, LAMP for linux or MAMP for Mac.
+in place of Apache and PHP saperatly i used [XAMPP Server](https://www.apachefriends.org/download.html). you can use WAMP for windows, LAMP for linux or MAMP for Mac.
 
 ## Installation
 
