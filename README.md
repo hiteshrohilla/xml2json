@@ -1,3 +1,8 @@
+xml2json
+========
+
+[![Software License](https://img.shields.io/badge/license-GPL-green.svg)](LICENSE)
+
 ## XML File to Javascript JSON Object or File Converter
 
 This small lovely code will convert you existing **XML file** available localy or at any URL to a easy to use **javascript or jQuery JSON object or JSON File**.
@@ -20,11 +25,11 @@ in place of Apache and PHP saperatly i used [XAMPP Server](https://www.apachefri
 
 1. Install Apache2 and PHP 5.5.x or just install XAMPP Server if you are on windows, LAMP If you are on Linux and MAMP if you are on Mac or if you have a PHP enavled web hosting account and you want to host this utility on your server please start following from instrection #2.
 
-2. Download source code. there are two major files **index.html** and **xml2json.php** place them in public folder, i.e. htdoc or www or public folder of your apache, xampp, lamp, wamp or hosting account.
+2. Download source code. there are two major files `index.html` and `xml2json.php` place them in public folder, i.e. htdoc or www or public folder of your apache, xampp, lamp, wamp or hosting account.
 
-3. in **index.html** on line number 12 in place of "http://www.w3schools.com/xml/note.xml" provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. **&lt;textarea id="data"&gt;&lt;/textarea&gt;** on **index.php** script is made in a way that it will also provide status in **&lt;div id="status"&gt;&lt;/div&gt;** markup.
+3. in `index.html` on line number 12 in place of `http://www.w3schools.com/xml/note.xml` provide link/url/path of any xml file and you will get the json output as data object. which i implemenmted in DOM i.e. `<textarea id="data"></textarea>` on `index.php` script is made in a way that it will also provide status in `<div id="status"></div>` markup.
 
-4. You can get json file from same location after getting converted where the **xml2json.php** script is installed.
+4. You can get json file from same location after getting converted where the `xml2json.php` script is installed.
 
 ## Tests
 
