@@ -20,7 +20,7 @@
 
 			    //CODE TO SAVE XML INTO a JSON FILE
 			    $json_parts = pathinfo($url);
-				$json_file = $path_parts['filename'] . '.json'; // since PHP 5.2.0
+				$json_file = $json_parts['filename'] . '.json'; // since PHP 5.2.0
 				$myfile = fopen($json_file, "w") or die("Unable to open file!");
 				fwrite($myfile, $json);
 				fclose($myfile);
