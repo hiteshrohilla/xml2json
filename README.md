@@ -1,7 +1,7 @@
 xml2json
 ========
 
-[![Software License](https://img.shields.io/badge/license-GPL-green.svg)](LICENSE)
+[![Software License](https://img.shields.io/badge/license-GPL-green.svg)](https://github.com/hiteshrohilla/xml2json/blob/master/gpl-3.0.txt)
 
 ## XML File to Javascript JSON Object or File Converter
 
