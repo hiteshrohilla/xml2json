@@ -21,7 +21,7 @@
 			//CODE TO SAVE XML INTO a JSON FILE
 			$json_parts = pathinfo($url);
 			$json_file = $json_parts['filename'] . '.json'; // since PHP 5.2.0
-			//Send nothing (whilw die) to json object in case unable to open file
+			//Send nothing (while die) to json object in case unable to open file
 			$myfile = fopen($json_file, "w") or die("");
 			fwrite($myfile, $json);
 			fclose($myfile);
